@@ -1,0 +1,8 @@
+*.elc
+
+/auto-save-list/
+/el-get/
+/etc/
+/package.d/
+/url/
+/elpa/
