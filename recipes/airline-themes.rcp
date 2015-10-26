@@ -1,4 +1,4 @@
-(:name airline-themes 
+(:name airline-themes
        :type github
        :depends powerline
        :pkgname "AnthonyDiGirolamo/airline-themes")

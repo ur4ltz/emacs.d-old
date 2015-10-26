@@ -1,6 +1,6 @@
 (el-get 'sync '(lua-mode
                 lua-block
-                flymake-lua
+;;                flymake-lua
 		))
 
 ;; lua-mode settings
@@ -16,5 +16,5 @@
 (require 'lua-block)
 (lua-block-mode t)
 
-(require 'flymake-lua)
-(add-hook 'lua-mode-hook 'flymake-lua-load)
+;;(require 'flymake-lua)
+;;(add-hook 'lua-mode-hook 'flymake-lua-load)
